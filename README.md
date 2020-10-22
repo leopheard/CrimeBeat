@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://curiouscast.ca/podcast/crime-beat/">Crime Beat</a> podcast.<br>
 
-<img src="https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/45a0e162-b88a-43bc-8c19-a9eb0140c1d3/cb6a559a-e724-47a5-8346-a9eb0142740e/podcast.rss"><br>
+<img src="https://www.omnycontent.com/d/programs/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/45a0e162-b88a-43bc-8c19-a9eb0140c1d3/image.jpg?t=1601912880&size=Large"><br>
 
 People know their hometowns by streets, a favorite restaurant or the local mall. Crime Reporter <a href="https://twitter.com/NancyHixt">Nancy Hixt</a> knows hers by the crime scenes she's been to over the past 20 years. Journey deep inside some of Canada’s most high-profile criminal cases. Each episode will take you inside the story to give you details you didn't hear on the news. New episodes every other week beginning October 20. Winner of the 2020 Edward R. Murrow Award (RTDNA).<br>
 
